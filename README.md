@@ -71,5 +71,3 @@ pip install pandas numpy scikit-learn seaborn joblib
 ## Author
 
 Tyler
-
-Feel free to reach out for any questions or further clarifications!
