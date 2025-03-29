@@ -50,8 +50,8 @@ pip install pandas numpy scikit-learn seaborn joblib
 
 1. Clone the repository:
    ```
-   git clone <repository_url>
-   cd hate_speech_detection
+   git clone https://github.com/TylerDdao/HateSpeech-Detection-Using-NLP.git
+   cd HateSpeech-Detection-Using-NLP
    ```
 
 2. Run the model training script:
@@ -61,13 +61,7 @@ pip install pandas numpy scikit-learn seaborn joblib
 
 3. View the classification results.
    - The model and vectorizer are saved as .pkl files for future use.
-
-## Future Improvements
-
-- Implement data balancing techniques to address class imbalance.
-- Test other algorithms like SVM or Neural Networks.
-- Perform hyperparameter tuning for better results.
-
+  
 ## Author
 
 Tyler
