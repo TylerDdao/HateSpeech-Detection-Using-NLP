@@ -63,7 +63,10 @@ pip install pandas numpy scikit-learn seaborn joblib
    - The model and vectorizer are saved as .pkl files for future use.
 
 4. Use the model.
-   - Run the script ```python model_use.py```
+   - Run the script
+     ```
+     python model_use.py
+     ```
   
 ## Author
 
